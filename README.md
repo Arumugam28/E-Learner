@@ -6,7 +6,7 @@
 
 <h2>🖥️ Demo</h2>
 
-[E Learner](https://rit-elearner.vercel.app/)
+[E Learner](https://rit-elearner-mu.vercel.app/)
 
   
   
@@ -32,4 +32,3 @@ Technologies used in the project:
 
 <h2>💖Like my work?</h2>
 
-Support Me By Buy Me A Coffee<p>https://www.buymeacoffee.com/luffy_404</p>
