@@ -99,7 +99,7 @@ function Video() {
           </div>
         </div>
         <div className='Foot'>
-          <p>Developed By <button className='TEbut' onClick={opnTE}>Team Exotic</button></p>
+          <p>Developed By <button className='TEbut' onClick={opnTE}>BlackList</button></p>
         </div>
       </div>
 
@@ -140,7 +140,7 @@ function Video() {
           <div className='TEl'>
             <p className='rit'>Ramco Institute Of Technology</p>
             <p>Computer Science And Business Systems</p>
-            <p className='TEd'>Team Exotic</p>
+            <p className='TEd'>BlackList</p>
           </div>
           <div className='TEm'>
             <div className='TEm1'>
@@ -152,21 +152,9 @@ function Video() {
                 <p>Arumugam B</p>
                 <p>CSBS</p>
               </div>
-              <div>
-                <p>Gopikaran R</p>
-                <p>CSBS</p>
-              </div>
+              
             </div>
-            <div className='TEm2'>
-              <div>
-                <p>Rumana Nachiyar</p>
-                <p>CSBS</p>
-              </div>
-              <div>
-                <p>Sri Janani</p>
-                <p>CSBS</p>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
