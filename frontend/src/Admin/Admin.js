@@ -1277,7 +1277,7 @@ function Home() {
         </div>
 
         <div className='Foot'>
-          <p>This Website Was Created By <Link>Team Exotic</Link></p>
+          <p>This Website Was Created By <Link>BlackList</Link></p>
         </div>
 
       </div>
